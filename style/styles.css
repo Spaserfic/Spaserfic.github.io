@@ -1,4 +1,13 @@
 h1 {
-    margin: 0 autio;
-    color: red
-   }
+    margin: 0 auto;
+    color: #c92424;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+ul,
+p {
+    text-align: center;
+}
