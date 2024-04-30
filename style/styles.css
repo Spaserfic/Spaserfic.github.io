@@ -3,6 +3,10 @@ h1 {
     color: #c92424;
     text-align: center;
 }
+h3,
+h2 {
+    text-align: center;
+}
 img {
     display: block;
     margin: 0 auto;
@@ -12,7 +16,7 @@ p {
     text-align: center;
 }
 body {
-    background-image: url("/Spaserfic.github.io/bg.jpg");
+    background-image: url("../bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
